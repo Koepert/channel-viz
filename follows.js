@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'ALwBUxESfoLJl2QBw0cPZinEC7OLi4ahsGSvhFmxpEn1JRsV', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1238813171!temperatuur,1442291598!Temperatuur], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [1238813171!temperatuur], // Comma separated array of Xively Feed ID numbers
 		applicationName	= '', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
